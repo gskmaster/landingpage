@@ -1,4 +1,9 @@
 {
     "version": 2,
-    "root": "sanitarium"
-}
+    "builds": [
+      {
+        "src": "sanitarium",
+        "use": "@vercel/static-build"
+      }
+    ]
+  }
