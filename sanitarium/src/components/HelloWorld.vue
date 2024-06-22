@@ -23,7 +23,7 @@
         style="background-image: url('https://picsum.photos/2000/1000'); height: 1000px;">
         <div class="container mx-auto p-4 pt-6 md:p-6 lg:p-12 flex justify-center items-center h-screen">
           <div class="text-center">
-            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white">About Us</h1>
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white">About Uss</h1>
             <p class="text-lg md:text-xl lg:text-2xl text-white mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing
               elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
             <button class="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">Learn More</button>
